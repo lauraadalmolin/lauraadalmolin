@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 <img align="center" alt="razuos's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lauraadalmolin&show_icons=true&count_private=true&hide_border=false" />
 
 <img align="center" alt="lauraadalmolins' Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauraadalmolin&layout=compact&count_private=true" />
